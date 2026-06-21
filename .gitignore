@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Входные данные (не коммитим — персональные данные!)
+*~lock.*#
+*.xls
+*.xlsx
+
+# Выходные файлы
+ИТЗ_сводный_текущий_год.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Тесты
+.pytest_cache/
+htmlcov/
+.coverage
